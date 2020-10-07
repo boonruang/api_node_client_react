@@ -1,4 +1,4 @@
-# API server
+# API with nodejs
 
 ## initial project
 
@@ -20,6 +20,6 @@
 
 > git commit -m 'Express server set with inital routes'
 
-## client
+# client with reactjs
 
 > npm i axios react-router-dom uuid react-transition-group
