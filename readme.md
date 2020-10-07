@@ -2,24 +2,34 @@
 
 ## initial project
 
-> npm init -y
+```sh
+npm init -y
+```
 
 ## create server.js
 
-> npm i express bcryptjs jsonwebtoken config express-validator mongoose
+```sh
+npm i express bcryptjs jsonwebtoken config express-validator mongoose
+```
 
 ## Install nodemon concuurently
 
-> npm i -D nodemon concurrently
+```sh
+npm i -D nodemon concurrently
 
-> add .gitignore
+```
 
-> git init
+## Git commit
 
-> git add .
-
-> git commit -m 'Express server set with inital routes'
+```sh
+add .gitignore
+git init
+git add .
+git commit -m 'Express server set with inital routes'
+```
 
 # client with reactjs
 
-> npm i axios react-router-dom uuid react-transition-group
+```sh
+npm i axios react-router-dom uuid react-transition-group
+```
